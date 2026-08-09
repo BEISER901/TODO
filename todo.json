@@ -6,6 +6,18 @@
 			"indicator": "active",
 			"indent": 0
 		}
+		{
+			"name": "Task1",
+			"description": "Description",
+			"indicator": "active",
+			"indent": 1
+		}
+		{
+			"name": "Task1",
+			"description": "Description",
+			"indicator": "active",
+			"indent": 2
+		}
 	],
 	"case_indicators": {
 		"progress": {
@@ -15,7 +27,7 @@
 		},
 		"active": {
 			"type": "default",
-			"color": "#bfd807",
+			"color": "#22d807",
 			"description": "The task is in the queue for execution."
 		},
 		"archived": {
