@@ -16,7 +16,25 @@
 			"name": "Task1",
 			"description": "Description",
 			"indicator": "active",
-			"indent": 2
+			"indent": 1
+		},
+		{
+			"name": "Task1",
+			"description": "Description",
+			"indicator": "active",
+			"indent": 1
+		},
+		{
+			"name": "Task1",
+			"description": "Description",
+			"indicator": "active",
+			"indent": 1
+		},
+		{
+			"name": "Task1",
+			"description": "Description",
+			"indicator": "active",
+			"indent": 1
 		}
 	],
 	"case_indicators": {
