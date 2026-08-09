@@ -1,0 +1,27 @@
+{
+	"tasks": [
+		{
+			"name": "Task1",
+			"description": "Description",
+			"indicator": "active",
+			"indent": 0
+		}
+	],
+	"case_indicators": {
+		"progress": {
+			"type": "default",
+			"color": "#bfd807",
+			"description": "The task takes priority and is at the forefront of the work process."
+		},
+		"active": {
+			"type": "default",
+			"color": "#bfd807",
+			"description": "The task is in the queue for execution."
+		},
+		"archived": {
+			"type": "deactivated",
+			"color": "#df0000",
+			"description": "The task is archived, either completed or abandoned."
+		}
+	}
+}
