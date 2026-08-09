@@ -1,58 +1,92 @@
-{
-	"title": "BEISER901 TODO:",
-	"tasks": [
-		{
-			"name": "Task1",
-			"description": "Description",
-			"indicator": "active",
-			"indent": 0
-		},
-		{
-			"name": "Task1",
-			"description": "Descriptionawfkwaflmawmlkwalkwalfawmlwlmfklwfklmwfaklmmlkwfklmwfalmkwaflmkfwalmsfamlkawflkmwfamlawfklmwfamlkwfalwmkfawaflmkwaflmkwaflwfalmwfalmkwaflmkwaflmkawflmkwaflmkwfalmkawflmkwfaklmawf",
-			"indicator": "active",
-			"indent": 1
-		},
-		{
-			"name": "Task1",
-			"description": "Description",
-			"indicator": "active",
-			"indent": 1
-		},
-		{
-			"name": "Task1",
-			"description": "Description",
-			"indicator": "active",
-			"indent": 1
-		},
-		{
-			"name": "Task1",
-			"description": "Description",
-			"indicator": "active",
-			"indent": 1
-		},
-		{
-			"name": "Task1",
-			"description": "Description",
-			"indicator": "active",
-			"indent": 1
-		}
-	],
-	"case_indicators": {
-		"progress": {
-			"type": "default",
-			"color": "#bfd807",
-			"description": "The task takes priority and is at the forefront of the work process."
-		},
-		"active": {
-			"type": "default",
-			"color": "#22d807",
-			"description": "The task is in the queue for execution."
-		},
-		"archived": {
-			"type": "deactivated",
-			"color": "#df0000",
-			"description": "The task is archived, either completed or abandoned."
-		}
-	}
-}
+"title": "BEISER901 TODO:",
+  "tasks": [
+    {
+      "name": "ElysiumDB",
+      "description": "Prepare the next release of ElysiumDB and finalize the documentation for the new extension system.",
+      "indicator": "progress",
+      "indent": 0
+    },
+    {
+      "name": "Extension pipeline",
+      "description": "Improve extension process ordering and make sure dependent extensions are executed in the correct sequence.",
+      "indicator": "active",
+      "indent": 1
+    },
+    {
+      "name": "Process synchronization",
+      "description": "Implement reliable waiting between extension processes and prevent race conditions when multiple extensions are executed.",
+      "indicator": "active",
+      "indent": 1
+    },
+    {
+      "name": "Documentation",
+      "description": "Write examples explaining how to create custom database extensions and configure their execution order.",
+      "indicator": "active",
+      "indent": 1
+    },
+    {
+      "name": "Authentication package",
+      "description": "Move AuthElysiumDB into a separate package and prepare the API for independent installation.",
+      "indicator": "archived",
+      "indent": 1
+    },
+    {
+      "name": "Badge Generator",
+      "description": "Create a flexible SVG badge generator with animated effects, customizable colors, indicators, and automatic text wrapping.",
+      "indicator": "progress",
+      "indent": 0
+    },
+    {
+      "name": "SVG rendering",
+      "description": "Improve the generated SVG appearance and experiment with glow filters, masks, gradients, and animated elements.",
+      "indicator": "active",
+      "indent": 1
+    },
+    {
+      "name": "GitHub integration",
+      "description": "Add support for generating badges that can be embedded directly into GitHub README files and project documentation.",
+      "indicator": "active",
+      "indent": 1
+    },
+    {
+      "name": "Templates",
+      "description": "Design several badge templates demonstrating different visual styles and information layouts.",
+      "indicator": "active",
+      "indent": 1
+    },
+    {
+      "name": "Neural Network",
+      "description": "Continue experimenting with a handwritten digit recognition network trained on the MNIST dataset.",
+      "indicator": "progress",
+      "indent": 0
+    },
+    {
+      "name": "Training pipeline",
+      "description": "Optimize the training loop and experiment with learning rates, data augmentation, and network architecture.",
+      "indicator": "active",
+      "indent": 1
+    },
+    {
+      "name": "Visualization",
+      "description": "Create a simple interface for drawing digits and displaying the network prediction together with the confidence values.",
+      "indicator": "active",
+      "indent": 1
+    }
+  ],
+  "case_indicators": {
+    "progress": {
+      "type": "default",
+      "color": "#bfd807",
+      "description": "The task takes priority and is at the forefront of the work process."
+    },
+    "active": {
+      "type": "default",
+      "color": "#22d807",
+      "description": "The task is in the queue for execution."
+    },
+    "archived": {
+      "type": "deactivated",
+      "color": "#df0000",
+      "description": "The task is archived, either completed or abandoned."
+    }
+  }
