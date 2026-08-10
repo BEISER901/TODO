@@ -93,7 +93,7 @@
 	      "description": "Write TECHNICAL.md, README.md, REFERENCE.md, TUTORIAL.md for publication.",
 	      "indicator": "active",
 	      "indent": 0
-	    },
+	    }
   ],
   "case_indicators": {
     "progress": {
