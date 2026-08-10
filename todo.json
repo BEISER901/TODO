@@ -5,88 +5,88 @@
       "name": "cnn-digit-recognition",
       "description": "Preparation of an experimental neural network based on a self‑written formula.",
       "indicator": "progress",
-      "indent": 1
+      "indent": 0
     },
 	    {
 	      "name": "Formulas",
 	      "description": "The FCN neural network formula system and CNN.",
 	      "indicator": "progress",
-	      "indent": 0
+	      "indent": 1
 	    },
 	    {
 	      "name": "Code",
 	      "description": "Write working code for a neural network to operate with training and queries.",
 	      "indicator": "progress",
-	      "indent": 0
+	      "indent": 1
 	    },
 	    {
 	      "name": "Training",
 	      "description": "Teach using examples of writing numbers.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    },
 	    {
 	      "name": "DOCS",
 	      "description": "Publish the completed documentation with a description of the workflow, a demonstration, and the formula.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    },
 
 	{
       "name": "fcn-digit-recognition",
       "description": "Preparation of an experimental neural network based on a self‑written formula.",
       "indicator": "active",
-      "indent": 1
+      "indent": 0
     },
 	    {
 	      "name": "DOCS",
 	      "description": "Publish the completed documentation with a description of the workflow, a demonstration, and the formula.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    },
 
 	{
       "name": "SupabaseElysiumProvider",
       "description": "Supabase client for ElysiumDB.",
       "indicator": "active",
-      "indent": 1
+      "indent": 0
     },
 	    {
 	      "name": "Optimization",
 	      "description": "Complete the optimization for publication, check the file structure, code cleanliness, and so on.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    },
 		{
 	      "name": "Repository publication",
 	      "description": "We need to finish SupabaseAuthElysiumProvider.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    },
 	   	{
 	      "name": "DOCS",
 	      "description": "Write TECHNICAL.md, README.md, REFERENCE.md, TUTORIAL.md for publication.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    },
 
 	{
       "name": "SupabaseAuthElysiumProvider",
       "description": "Supabase auth extension for the Supabase client ElysiumDB.",
       "indicator": "active",
-      "indent": 1
+      "indent": 0
     },
 	    {
 	      "name": "Optimization",
 	      "description": "Complete the optimization for publication, check the file structure, code cleanliness, and so on.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    },
 	   	{
 	      "name": "DOCS",
 	      "description": "Write TECHNICAL.md, README.md, REFERENCE.md, TUTORIAL.md for publication.",
 	      "indicator": "active",
-	      "indent": 0
+	      "indent": 1
 	    }
   ],
   "case_indicators": {
