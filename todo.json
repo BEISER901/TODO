@@ -2,77 +2,98 @@
   "title": "BEISER901 TODO:",
   "tasks": [
     {
-      "name": "ElysiumDB",
-      "description": "Prepare the next release of ElysiumDB and finalize the documentation for the new extension system.",
+      "name": "cnn-digit-recognition",
+      "description": "Preparation of an experimental neural network based on a self‑written formula.",
       "indicator": "progress",
-      "indent": 0
+      "indent": 1
     },
-    {
-      "name": "Extension pipeline",
-      "description": "Improve extension process ordering and make sure dependent extensions are executed in the correct sequence.",
+	    {
+	      "name": "Formulas",
+	      "description": "The FCN neural network formula system and CNN.",
+	      "indicator": "progress",
+	      "indent": 0
+	    },
+	    {
+	      "name": "Code",
+	      "description": "Write working code for a neural network to operate with training and queries.",
+	      "indicator": "progress",
+	      "indent": 0
+	    },
+	    {
+	      "name": "Training",
+	      "description": "Teach using examples of writing numbers.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+	    {
+	      "name": "DOCS",
+	      "description": "Publish the completed documentation with a description of the workflow, a demonstration, and the formula.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+
+	{
+      "name": "fcn-digit-recognition",
+      "description": "Preparation of an experimental neural network based on a self‑written formula.",
       "indicator": "active",
       "indent": 1
     },
-    {
-      "name": "Process synchronization",
-      "description": "Implement reliable waiting between extension processes and prevent race conditions when multiple extensions are executed.",
+	    {
+	      "name": "DOCS",
+	      "description": "Publish the completed documentation with a description of the workflow, a demonstration, and the formula.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+
+	{
+      "name": "SupabaseElysiumProvider",
+      "description": "Supabase client for ElysiumDB.",
       "indicator": "active",
       "indent": 1
     },
-    {
-      "name": "Documentation",
-      "description": "Write examples explaining how to create custom database extensions and configure their execution order.",
+	    {
+	      "name": "Optimization",
+	      "description": "Complete the optimization for publication, check the file structure, code cleanliness, and so on.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+		{
+	      "name": "Repository publication",
+	      "description": "We need to finish SuapabaseAuthElysiumProvider.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+	   	{
+	      "name": "DOCS",
+	      "description": "Write TECHNICAL.md, README.md, REFERENCE.md, TUTORIAL.md for publication.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+
+	{
+      "name": "SupabaseAuthElysiumProvider",
+      "description": "Supabase auth extension for the Supabase client ElysiumDB.",
       "indicator": "active",
       "indent": 1
     },
-    {
-      "name": "Authentication package",
-      "description": "Move AuthElysiumDB into a separate package and prepare the API for independent installation.",
-      "indicator": "archived",
-      "indent": 1
-    },
-    {
-      "name": "Badge Generator",
-      "description": "Create a flexible SVG badge generator with animated effects, customizable colors, indicators, and automatic text wrapping.",
-      "indicator": "progress",
-      "indent": 0
-    },
-    {
-      "name": "SVG rendering",
-      "description": "Improve the generated SVG appearance and experiment with glow filters, masks, gradients, and animated elements.",
-      "indicator": "active",
-      "indent": 1
-    },
-    {
-      "name": "GitHub integration",
-      "description": "Add support for generating badges that can be embedded directly into GitHub README files and project documentation.",
-      "indicator": "active",
-      "indent": 1
-    },
-    {
-      "name": "Templates",
-      "description": "Design several badge templates demonstrating different visual styles and information layouts.",
-      "indicator": "active",
-      "indent": 1
-    },
-    {
-      "name": "Neural Network",
-      "description": "Continue experimenting with a handwritten digit recognition network trained on the MNIST dataset.",
-      "indicator": "progress",
-      "indent": 0
-    },
-    {
-      "name": "Training pipeline",
-      "description": "Optimize the training loop and experiment with learning rates, data augmentation, and network architecture.",
-      "indicator": "active",
-      "indent": 1
-    },
-    {
-      "name": "Visualization",
-      "description": "Create a simple interface for drawing digits and displaying the network prediction together with the confidence values.",
-      "indicator": "active",
-      "indent": 1
-    }
+	    {
+	      "name": "Optimization",
+	      "description": "Complete the optimization for publication, check the file structure, code cleanliness, and so on.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+		{
+	      "name": "Repository publication",
+	      "description": "We need to finish SuapabaseAuthElysiumProvider.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
+	   	{
+	      "name": "DOCS",
+	      "description": "Write TECHNICAL.md, README.md, REFERENCE.md, TUTORIAL.md for publication.",
+	      "indicator": "active",
+	      "indent": 0
+	    },
   ],
   "case_indicators": {
     "progress": {
