@@ -59,7 +59,7 @@
 	    },
 		{
 	      "name": "Repository publication",
-	      "description": "We need to finish SuapabaseAuthElysiumProvider.",
+	      "description": "We need to finish SupabaseAuthElysiumProvider.",
 	      "indicator": "active",
 	      "indent": 0
 	    },
@@ -79,12 +79,6 @@
 	    {
 	      "name": "Optimization",
 	      "description": "Complete the optimization for publication, check the file structure, code cleanliness, and so on.",
-	      "indicator": "active",
-	      "indent": 0
-	    },
-		{
-	      "name": "Repository publication",
-	      "description": "We need to finish SuapabaseAuthElysiumProvider.",
 	      "indicator": "active",
 	      "indent": 0
 	    },
