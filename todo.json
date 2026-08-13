@@ -16,13 +16,13 @@
     {
       "name": "Code",
       "description": "Write working code for a neural network to operate with training and queries.",
-      "indicator": "progress",
+      "indicator": "archived",
       "indent": 1
     },
     {
       "name": "Training",
       "description": "Teach using examples of writing numbers.",
-      "indicator": "archived",
+      "indicator": "progress",
       "indent": 1
     },
     {
