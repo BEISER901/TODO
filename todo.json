@@ -22,7 +22,7 @@
     {
       "name": "Training",
       "description": "Teach using examples of writing numbers.",
-      "indicator": "active",
+      "indicator": "archived",
       "indent": 1
     },
     {
