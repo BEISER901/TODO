@@ -22,13 +22,13 @@
     {
       "name": "Training",
       "description": "Teach using examples of writing numbers.",
-      "indicator": "progress",
+      "indicator": "archived",
       "indent": 1
     },
     {
       "name": "DOCS",
       "description": "Publish the completed documentation with a description of the workflow, a demonstration, and the formula.",
-      "indicator": "active",
+      "indicator": "progress",
       "indent": 1
     },
     {
