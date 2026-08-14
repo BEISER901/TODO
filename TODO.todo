@@ -6,9 +6,12 @@ BEISER TODO:
 Description
 
 * Title2 - progress
-Description awffwawfawf
+awffwawfawf
 waffawfw
 awfwawafawf
+** Title 2.2 - progress
+fwawlkfana
+fwafawfaw
 
 * Title3 - archived
 Description awffwawfawf
@@ -16,6 +19,6 @@ waffawfw
 awfwawafawfgwafwwa
 
 !!INDICATORS!!
-progress // The task is in the queue for execution. // #df0000
+progress // The task is in the queue for execution. // #bfd807
 active // The task is in the queue for execution. // #22d807
 archived // The task is archived, either completed or abandoned. // #df0000 // deactivated
