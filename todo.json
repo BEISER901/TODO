@@ -10,7 +10,7 @@
     {
       "name": "Formulas",
       "description": "The FCN neural network formula system and CNN.",
-      "indicator": "progress",
+      "indicator": "active",
       "indent": 1
     },
     {
@@ -28,7 +28,7 @@
     {
       "name": "DOCS",
       "description": "Publish the completed documentation with a description of the workflow, a demonstration, and the formula.",
-      "indicator": "progress",
+      "indicator": "active",
       "indent": 1
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "ARM64 Linux Environment",
       "description": "I'm trying to write a Linux environment based on the vmlinuz kernel for a tablet that would duplicate the PC screen on the tablet, transmit the touchscreen, and everything else. First, test it in QEMU and then on the tablet to select the drivers and the right vmlinuz for the bootloader. ",
-      "indicator": "active",
+      "indicator": "progress",
       "indent": 0
     }
   ],
